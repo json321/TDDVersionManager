@@ -24,6 +24,6 @@ public class VesrionManager {
     }
 
     public void reset() {
-
+        this.version = 0;
     }
 }
