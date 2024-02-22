@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24fddfe7-072b-4b8f-b8cd-b891ec2737d4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/VesrionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VesrionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VesrionManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VesrionManagerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +48,9 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "reset",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/e2205992/IdeaProjects/Chiffre romain",
     "onboarding.tips.debug.path": "C:/Users/e2205992/IdeaProjects/TDDVesrionManager/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",

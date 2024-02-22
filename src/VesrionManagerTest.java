@@ -46,13 +46,19 @@ public class VesrionManagerTest {
     @Test
     @DisplayName("test majeur triple")
         public void triple() {
-        
         vers.majeur();
         vers.majeur();
         vers.majeur();
         assertEquals(300, vers.getVersion());
     }
 
-
+    @Test
+    @DisplayName("test reset")
+        public void reset() {
+        vers.setVersion(777);
+        assertEquals(777, vers.getVersion());
+        vers.reset();
+        assertEquals(0, vers.getVersion());
+    }
 
 }
