@@ -46,7 +46,6 @@ public class VesrionManagerTest {
     @Test
     @DisplayName("test majeur triple")
         public void triple() {
-        
         vers.majeur();
         vers.majeur();
         vers.majeur();
