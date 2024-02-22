@@ -22,4 +22,8 @@ public class VesrionManager {
     public void setVersion(int nb) {
         this. version = nb;
     }
+
+    public void reset() {
+
+    }
 }
